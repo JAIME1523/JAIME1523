@@ -1,4 +1,6 @@
-### Hola Jaime Vivar 👋
+### ¡Hola! Soy Jaime Vivar 👋
+
+Soy un desarrollador de Flutter realmente apasionado por sus tecnologías.
 
 <p>
   <img src="https://res.cloudinary.com/dybphzddq/image/upload/v1688164239/GIT/e4MKTR_zbpwva.png">
@@ -20,3 +22,9 @@
 
 </div>
 </p>
+
+ 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaime1523&&show_icons=true&count_private=true&theme=github_dark">|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime1523&layout=compact&theme=github_dark"/>
