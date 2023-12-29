@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Jaime Vivar 👋
 
-Soy desarrollador de Flutter realmente apasionado por sus tecnologías.
+Soy desarrollador de Flutter.
 
 <p>
   <img src="https://res.cloudinary.com/dybphzddq/image/upload/v1688164239/GIT/e4MKTR_zbpwva.png">
